@@ -1,0 +1,16 @@
+5-A
+Size of under group: '1424'.
+Size of over group: '570'.
+
+5-B
+Disparity on the population column: 0.0354.
+
+5-C
+FNR disparity on the population column: 0.2763.
+FPR disparity on the population column: 0.1248.
+
+column	Score Disparity	FNR Disparity	FPR Disparity
+racePctAsian	0.0320	0.0800	0.0203
+racePctHisp	0.1694	0.0547	0.2143
+racePctWhite	0.1836	0.7025	0.4005
+racepctblack	0.1365	0.4391	0.3491
